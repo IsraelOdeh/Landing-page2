@@ -146,35 +146,3 @@ button img{
     
 
 }
-
-
-@media only screen and (min-width:1023px) {
-
-    main {
-        width: 53%;
-    }
-
-
-    p {
-        padding: 15px 0;
-    }
-
-}
-
-
-@media only screen and (min-width:1440px) {
-    main {
-        width: 45%;
-    }
-
-    h2 {
-        padding: 10% 0;
-    }
-
-    .text div#price {
-        padding-bottom: 20%;
-    }
-
-
-
-}
