@@ -106,8 +106,7 @@ button img{
 }
 
 
-@media only screen and (min-width:397px) {
-}
+
 
 @media only screen and (min-width:530px) {
     body{
@@ -117,9 +116,8 @@ button img{
         display: grid;
         grid-template-columns: 50% 50%;
         width: 65%;
-        /* padding: 15% 25%; */
         text-align: initial;
-        padding-top: 14%;
+        padding-top: 10%;
         width: 545px;
         max-width: 545px;
     }
